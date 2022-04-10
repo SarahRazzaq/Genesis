@@ -6,10 +6,10 @@ main{
     display: flex;
     align-items: center;
 }
-.main-container{
+.contact-main-container{
     display: grid;
     max-width: 1110px;
-    max-height: 1400px;
+    max-height:1400px;
     grid-template-columns:repeat(10,1fr) ;
     grid-template-rows:repeat(15,1fr) ;
     column-gap: 15px;
